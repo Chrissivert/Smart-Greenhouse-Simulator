@@ -1,4 +1,11 @@
 # Smart-Greenhouse-Simulator
+![image](https://github.com/user-attachments/assets/6b37a320-58ad-4d54-8610-84f90c9a6bf7)
+![image](https://github.com/user-attachments/assets/04e2891d-4f03-41e0-887c-82e3d00d2c63)
+![image](https://github.com/user-attachments/assets/cb01d6c1-e369-4353-84a9-42fd1930cb39)
+
+
+
+
 
 Created Autumn 2023
 
