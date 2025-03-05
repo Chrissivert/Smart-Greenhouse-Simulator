@@ -1,4 +1,12 @@
-# Project
+# Smart-Greenhouse-Simulator
+
+Created Autumn 2023
+
+Created by:
+
+- [Robin Hammer](https://github.com/robi-ha)
+- [Brage Solem](https://github.com/BrageSolem)
+- Chris Sivert
 
 Course project for the
 course [IDATA2304 Computer communication and network programming (2023)](https://www.ntnu.edu/studies/courses/IDATA2304/2023).
